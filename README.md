@@ -13,3 +13,5 @@ power consumption, and current limits. Coils in simulation undergo verification 
 validate analytical and simulation results. The findings provide a complete design workflow for 
 magnetorquer systems on small satellites and demonstrate an optimized magnetic actuation 
 approach capable of supporting the mission’s unique lunar-observation requirements. 
+
+There are multiple MATLAB .m code files attached to this repo. The main file is named .main. It is important to download and save all the .m files in the same location and run the .main file for an optimized simulation.
